@@ -21,3 +21,5 @@
   Connect with me on Github @matthendrian
   Have any questions about my work? feel free to reach out to me at matthendrian@gmail.com. 
  
+ Video Walkthrough: https://youtu.be/1iT-CXMm4JM
+ 
