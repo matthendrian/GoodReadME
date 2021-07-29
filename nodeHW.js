@@ -5,7 +5,7 @@ const fs = require('fs');
 const generateREADME = (answers) =>
   `
  ### Table of Contents 
- [Licensing](#licensing) | [Description](#description) | [Installation](#installation-instructions) | [Usage](#usage) | [Contribution](contribution) | [Tests](test-parameters) | [Contact](#contact)
+ [Licensing](#licensing) | [Description](#description) | [Installation](#installation-intstructions) | [Usage](#usage) | [Contribution](#contribution) | [Tests](test-parameters) | [Contact](#contact)
 
   ## ${answers.title} 
 
