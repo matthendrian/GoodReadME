@@ -1,6 +1,6 @@
 
  ### Table of Contents 
- [Licensing](#licensing) | [Description](#description) | [Installation](#installation-instructions) | [Usage](#usage) | [Contribution](#contribution) | [Tests](#test-parameters) | [Contact](#contact)
+ [Licensing](#licensing) | [Description](#description) | [Installation](#installation) | [Usage](#usage) | [Contribution](#contribution) | [Tests](#test-parameters) | [Contact](#contact)
 
   ## Project 9: Good README Generator 
 
@@ -12,7 +12,7 @@
   
 ### Description
   My project allows the user to enter details about their project so that they can quickly generate a high quality readme.
-### Installation Intstructions
+### Installation
   To install this project, start by installing node on your device, followed by inquirer. Then either download the repository file or use a git pull.
 ### Usage 
   This project uses js, package json, node, and inqurer.
