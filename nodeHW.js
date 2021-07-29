@@ -5,24 +5,27 @@ const fs = require('fs');
 const generateREADME = (answers) =>
   `
  ### Table of Contents 
- Title | Licensing | Description | Installation | Usage | Contribution | Tests | Github
+ [Licensing](#licensing) | [Description](#description) | [Installation](#installation-instructions) | [Usage](#usage) | [Contribution](contribution) | [Tests](test-parameters) | [Contact](#contact)
 
   ## ${answers.title} 
 
+
+### Licensing
   This project is licensed under ${answers.license}, ${activeLink}
   
   ${licenseDescription}
   
+### Description
   ${answers.description}
-  
+### Installation Intstructions
   ${answers.installation}
- 
+### Usage 
   ${answers.usage}
-  
+### Contribution
   ${answers.contribution}
- 
+### Test Parameters
   ${answers.tests}
-  
+### Contact
   Connect with me on Github @${answers.github}
   Have any questions about my work? feel free to reach out to me at ${answers.email}. 
  `;
